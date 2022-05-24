@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+## Welcome to Introduction to Neural Data Science! (BSRxxxx)
 
-You can use the [editor on GitHub](https://github.com/jetsetbaxter/intro-neural-data-science-2022/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The current course syllabus and schedule is [here](./intro_neural_data_science_syllabus.pdf).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Course Schedule and Topics
 
-### Markdown
+| Date | Topic |
+| --- | --- |
+| August 15 | Introduction and course overview / installing R and R Studio / "why R?"
+| August 17 | Basic R programming / dice and cards / probability
+| August 22 | Functions in R / probability games 
+| August 24 | "Tidyverse" in R / importing and manipulating data
+| August 29 | Summarizing and visualizing data using the tidyverse
+| August 31 | Data management and cleaning, outliers
+| September 5 | <i>Labor Day Holiday - no class</i>
+| September 7 | R projects and becoming friendly with GitHub
+| September 12 | Python and MATLAB
+| September 14 | Random variables and distribution functions
+| September 19 | Simulating data and exploratory data analysis
+| September 21 | Experimental design, "rigor and reproducibility", correlation vs causation
+| September 26 | Sampling, sample vs population
+| September 28 | Introduction to statistical inference; type I and type II errors
+| October 3 | Statistical inference on means (z-test, t-test, permutation testing)
+| October 5 | Correlation coefficients - quantifying the relationship between variables
+| October 10 | <i>Indigenous Peoples' Day Holiday - no class</i>
+| October 12 | Introduction to data visualization (histograms, scatterplots)
+| October 17 | Statistical inference on counts (Fisher's exact test, chi-squared tests)
+| October 19 | Parametric vs. nonparametric statistical tests
+| October 24 | Power analysis
+| October 26 | Experimental design from start to finish
+| October 31 | Regression analysis and linear models
+| November 2 | Linear models with more than one predictor
+| November 7 | Linear models with categorical predictors
+| November 9 | Diagnosing problems with linear models and evaluating assumptions
+| November 14 | <i>Society for Neuroscience meeting - no class</i>
+| November 16 | <i>Society for Neuroscience meeting - no class</i>
+| November 21 | Statistical inference on linear models
+| November 23 | <i>Thanksgiving - no class</i>
+| November 28 | Data curation and management / responsible, NIH-compliant data sharing
+| November 30 | Tools for improving reproducible data analysis (Markdown, Quarto, Docker)
+| December 5 | Special topics and review
+| December 7 | Special topics and review
+| December 12 | Presentations
+| December 14 | Presentations
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### [Homework Assignments](./homeworks.md) 
 
-```markdown
-Syntax highlighted code block
+### Selected resources
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jetsetbaxter/intro-neural-data-science-2022/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Statistical Thinking for the 21st Century](https://statsthinking21.org)
